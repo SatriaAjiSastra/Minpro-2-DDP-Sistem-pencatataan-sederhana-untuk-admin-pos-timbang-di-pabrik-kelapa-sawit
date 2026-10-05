@@ -13,9 +13,7 @@ Fakultas:Teknik
 Flowchart Alur Program
 
 
-Penjelasan kode Program 
-
-Sistem Pencatatan Sederhana untuk admin pos timbang di Pabrik Sawit
+Penjelasan kode Program Sistem Pencatatan Sederhana untuk admin pos timbang di Pabrik Sawit
 
 <img width="629" height="89" alt="Screenshot 2026-10-04 214935" src="https://github.com/user-attachments/assets/1b9085a5-f5a7-4b3a-b2d7-3441bbc3a75c" />
 
