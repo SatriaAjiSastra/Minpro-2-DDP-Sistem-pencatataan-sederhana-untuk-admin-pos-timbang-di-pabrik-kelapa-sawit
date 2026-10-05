@@ -49,6 +49,40 @@ Jika yang login adalah operator, sistem hanya menampilkan 5 pilihan menu
 
 *OUTPUT*
 
+<img width="536" height="317" alt="Screenshot 2026-10-05 155702" src="https://github.com/user-attachments/assets/2f4cf616-cf6f-4f1c-8e3b-39cd1ecca7ae" />
+
+ini adalah output pertama untuk login akun dan saya login pakai akun Admin
+
+<img width="553" height="177" alt="Screenshot 2026-10-05 155925" src="https://github.com/user-attachments/assets/7ac00cd2-ce2a-4c71-866d-c52087fd18d4" />
+
+ini adalah menu 1 yaitu menu untuk menginput truk yang masuk, Nama sopir, Plat nomor truk, Berat bruto/Berat kotor
+
+<img width="503" height="265" alt="Screenshot 2026-10-05 160202" src="https://github.com/user-attachments/assets/3da9088c-e221-41e1-82e7-164dfc215215" />
+
+ini adalah menu 2 yang berfungsi untuk menampilkan data data truk yang masuk
+
+<img width="617" height="165" alt="Screenshot 2026-10-05 160349" src="https://github.com/user-attachments/assets/cbdfaf4c-d048-42be-9d21-e67ab7f38c07" />
+
+ini adalah output menu 3 menmproses dan menghitung netto/berat bersih 
+
+<img width="468" height="157" alt="Screenshot 2026-10-05 160602" src="https://github.com/user-attachments/assets/d7cf9bea-5b93-4446-9c71-bc0b982dd8a5" />
+
+ini adalah output menu 4 yang berfungsi untuk menghapus data truk yang ingin di hapus
+
+<img width="652" height="345" alt="Screenshot 2026-10-05 160749" src="https://github.com/user-attachments/assets/ab1bb723-3bca-404b-b8e9-6e708e534c59" />
+
+ini adalah output menu ke yang berfungsi untuk pindah akun, saat aku sudah pindah ke operator semua nya masih sama hanya di kurangi 1 menu yaitu tidak ada menu untuk menghapus data seperti di menu admin
+
+<img width="805" height="89" alt="Screenshot 2026-10-05 161122" src="https://github.com/user-attachments/assets/1654937d-c2da-4908-9c8d-500a9b9af0bc" />
+
+terakhir adalah output menu 5 yaitu keluar dari program.
+
+
+
+
+
+
+
 
 
 
