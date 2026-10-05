@@ -1,14 +1,20 @@
 Nama:Satria Aji Sastra
+
 Nim:2609116019
+
 Kelas:A_26
+
 Prodi:Sistem Informasi
+
 Fakultas:Teknik
 
 <img width="1007" height="1087" alt="Diagram Minpro drawio" src="https://github.com/user-attachments/assets/22581a43-083f-40a3-bc38-6aee02b53bb6" />
 
 Flowchart Alur Program
 
+
 Penjelasan kode Program 
+
 Sistem Pencatatan Sederhana untuk admin pos timbang di Pabrik Sawit
 
 <img width="629" height="89" alt="Screenshot 2026-10-04 214935" src="https://github.com/user-attachments/assets/1b9085a5-f5a7-4b3a-b2d7-3441bbc3a75c" />
