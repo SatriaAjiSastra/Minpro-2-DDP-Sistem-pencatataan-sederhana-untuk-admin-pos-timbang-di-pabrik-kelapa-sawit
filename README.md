@@ -81,11 +81,11 @@ ini adalah output menu 4 yang berfungsi untuk menghapus data truk yang ingin di 
 
 <img width="652" height="345" alt="Screenshot 2026-10-05 160749" src="https://github.com/user-attachments/assets/ab1bb723-3bca-404b-b8e9-6e708e534c59" />
 
-ini adalah output menu ke yang berfungsi untuk pindah akun, saat aku sudah pindah ke operator semua nya masih sama hanya di kurangi 1 menu yaitu tidak ada menu untuk menghapus data seperti di menu admin
+ini adalah output menu ke yang berfungsi untuk pindah akun, saat akun sudah pindah ke operator semua nya masih sama hanya di kurangi 1 menu yaitu tidak ada menu untuk menghapus data seperti di menu admin
 
 <img width="805" height="89" alt="Screenshot 2026-10-05 161122" src="https://github.com/user-attachments/assets/1654937d-c2da-4908-9c8d-500a9b9af0bc" />
 
-terakhir adalah output menu 5 yaitu keluar dari program.
+terakhir adalah output menu terakhir yaitu keluar dari program.
 
 
 
