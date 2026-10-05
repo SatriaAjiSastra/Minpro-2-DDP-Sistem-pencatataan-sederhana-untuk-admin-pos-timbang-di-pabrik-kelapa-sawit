@@ -8,6 +8,8 @@ Prodi:Sistem Informasi
 
 Fakultas:Teknik
 
+*Sistem Pencatatan Sederhana untuk admin pos timbang di Pabrik Sawit*
+
 <img width="1007" height="1087" alt="Diagram Minpro drawio" src="https://github.com/user-attachments/assets/22581a43-083f-40a3-bc38-6aee02b53bb6" />
 
 Flowchart Alur Program
